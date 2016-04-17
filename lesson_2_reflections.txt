@@ -5,3 +5,7 @@ Viene creata una cartella nascosta .git, ma nessun commit viene fatto, su nessun
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Permette di considerare solo una parte dei file contenuti. Non lo so
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Aggiungendo ad essa ogni singolo file interessato dalla modifica
