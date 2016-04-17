@@ -13,3 +13,7 @@ Aggiungendo ad essa ogni singolo file interessato dalla modifica
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Quando si vuole sperimentare qualche cambiamento sostanziale, si può continuare a sviluppare il percorso normale e contemporaneamente testare quello sperimentale
+
+How do the diagrams help you visualize the branch structure?
+
+e niente
