@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Viene creata una cartella nascosta .git, ma nessun commit viene fatto, su nessun file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Permette di considerare solo una parte dei file contenuti. Non lo so
