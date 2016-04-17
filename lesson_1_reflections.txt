@@ -1,0 +1,17 @@
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro: Commit più sensati
+Cons: Possibili dimenticanze
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Alcuni file sono parte di un singolo progetto e non ha senso tracciare le modifiche di un solo file per volta
+
+How can you use the commands git log and git diff to view the history of files?
+
+Per il git log è sufficiente essere nella directory del repository, saranno mostrati tutti i commit
+Per il git diff bisogna inserire i codici dei sue commit da confrontare
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Creare un repository
