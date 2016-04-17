@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 quando c'è bisogno di collaborazione a distanza, quando si vule rendere pubblico il progetto, ecc
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork clona un repo su github, branch crea una nuova label in locale, clone copia un repo online o locale in locale
